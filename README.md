@@ -1,4 +1,10 @@
 # Estudo-Git
 Teste pra estudar
-Consegui editar da minha maquina
-onsegui editar do gitHub
+
+
+
+
+esse é um teste que teria dado errado.
+
+
+agora o erro esta corrigido
